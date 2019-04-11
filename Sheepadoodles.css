@@ -1,0 +1,35 @@
+/*
+*Chloe Wenner
+*Due Date
+*Using Sematic Elements to Create a Web Page
+*/
+
+/* The universal selector*?
+
+* {
+} 
+/* Body properties here */
+
+body {
+background-color: lightcyan;
+}
+
+/*applies to the head section in the html*/
+header{
+background-color: azure;
+font-family: sans-serif 
+}
+
+/*applies to the main section in the html*/
+main{
+background-color: lightyellow;
+font-family: sans-serif 
+}
+
+/*applies to the foot section in the html*/
+footer{
+background-color: lightpink;
+font-family: sans-serif 
+}
+
+#ollie{width: 300px; height: 400px; float:left;}   
